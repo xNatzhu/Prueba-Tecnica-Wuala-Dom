@@ -57,6 +57,7 @@
 
   .card-clime h2{
     font-size: 40px;
+    margin-left: 10px;
   }
   .card-body {
     display: flex;
@@ -67,6 +68,8 @@
     min-height: 250px;
     color: #161616;
   }
+
+  
   .tag {
     background: #cccccc;
     border-radius: 50px;
